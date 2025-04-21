@@ -55,9 +55,5 @@ Redução do tempo de configuração e teste.
 
 Esta API foi desenvolvida como parte de um estudo em desenvolvimento backend com Node.js. Ela utiliza o padrão MVC e é escrita em JavaScript.
 
-**Contribuição**
---------------
-
-Se você deseja contribuir para a API, por favor, faça um fork do repositório e envie um pull request com suas alterações.
 
 
