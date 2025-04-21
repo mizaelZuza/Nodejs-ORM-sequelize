@@ -26,7 +26,7 @@ Ela fornece uma interface para o front-end se comunicar com o banco de dados, pe
 
 Para instalar a API, siga os passos abaixo:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone o repositório: `git clone git@github.com:mizaelZuza/Nodejs-ORM-sequelize.git`
 2. Instale as dependências: `npm install`
 3. Inicie a API: `npm run dev`
 
